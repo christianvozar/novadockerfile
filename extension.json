@@ -1,0 +1,7 @@
+{
+    "identifier": "rogueethic.Dockerfile",
+    "name": "Dockerfile",
+    "author": "rogueethic",
+    "description": "Dockerfile syntax highlighting and completion for Nova.",
+    "version": "1.0"
+}
